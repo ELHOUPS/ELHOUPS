@@ -12,6 +12,6 @@ my main focus right now is on :
 >>- Database administration with **R**, or **SQL**.
 >>- and [Pyton](https://www.python.org/).
   
->**Hope we can collaborate on these Field**
+>**Hope we can collaborate one's**
 >>***Best regards, -Kafi***
 
