@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**ELHOUPS/ELHOUPS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+>I am a university of Algiers Engineering  Alumni with a profetionnal background on soft computing,
+Experience in engineering mainly Civil Works, Mastering Web devloppement And currently software tools with a bit of experience in teaching as contractor at university’s of applied science.
+my main focus right now is on :
+- Machine learning.
+- generative AI.
+- Data Science. 
+> i can help this different field :
+- Web devlopement using Django's[Django's](https://github.com/django/django) Web framework
+- Front-End responsive designs.
+- Database administration with **R**, or **SQL**.
+- and [Pyton](https://www.python.org/)).
+  
+>>**Hope we can collaborate on these Field**
+>>***Best regards, -Kafi***
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
