@@ -6,11 +6,11 @@ my main focus right now is on :
 >- Machine learning.
 >- generative AI.
 >- Data Science. 
-i can help this different field :
->- Web devlopement using [Django's](https://github.com/django/django) Web framework.
->- Front-End responsive designs.
->- Database administration with **R**, or **SQL**.
->- and [Pyton](https://www.python.org/).
+>>i can help this different field :
+>>- Web devlopement using [Django's](https://github.com/django/django) Web framework.
+>>- Front-End responsive designs.
+>>- Database administration with **R**, or **SQL**.
+>>- and [Pyton](https://www.python.org/).
   
 >>**Hope we can collaborate on these Field**
 >>***Best regards, -Kafi***
