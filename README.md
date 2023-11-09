@@ -1,6 +1,6 @@
-### Helo 🌍
+### Helo 🌍 
 
->I am a university of Algiers 	:Algeria:  Engineering  Alumni with a profetionnal background on soft computing,
+>I am a university of Algiers Engineering  Alumni with a profetionnal background on soft computing,
 Experience in engineering mainly Civil Works, Mastering Web devloppement And currently software tools with a bit of experience in teaching as contractor at university’s of applied science.
 my main focus right now is on 📚 :
 >- Machine learning .
