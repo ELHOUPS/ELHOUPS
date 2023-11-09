@@ -2,10 +2,11 @@
 
 >I am a university of Algiers Engineering  Alumni with a profetionnal background on soft computing,
 Experience in engineering mainly Civil Works, Mastering Web devloppement And currently software tools with a bit of experience in teaching as contractor at university’s of applied science.
-my main focus right now is on 📚 :
->- Machine learning .
->- generative AI.
->- Data Science. 
+Project :
+>- [Zouloulou](https://youtu.be/adUXjfNohmw) .
+>- [Small Network](https://www.youtube.com/watch?v=H5g-S4LF7rA).
+>- [Mail Box](https://youtu.be/8hLDxBDQugY)
+>- [Small Wiki](https://youtu.be/afFiHaY1WRg)
 >>i can help this different field  :
 >>- Web devlopement using 🔗 [**Python and javaScript.**](https://credentials.edx.org/credentials/7ca9badd84c344d593af5aeb759ad5c4/) . 
 >>- Front-End responsive designs.
