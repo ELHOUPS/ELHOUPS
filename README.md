@@ -1,4 +1,4 @@
-### Helo <img src='https://github.com/ELHOUPS/ELHOUPS/blob/main/Tiger_Lonely.png' width=50px > 
+### Helo 
 
 >I am a university of Algiers Engineering  Alumni with a profetionnal background on software computing,
 Experience in engineering mainly Civil Works, Mastering Web devloppement And currently software tools with a bit of experience in teaching as contractor at university’s of applied science.
@@ -17,3 +17,4 @@ Experience in engineering mainly Civil Works, Mastering Web devloppement And cur
 
 >>**Hope we can collaborate one's** 
 >>>***Sincerly, -Kafi***
+>>>><img src='https://github.com/ELHOUPS/ELHOUPS/blob/main/Tiger_Lonely.png' width=50px > 
