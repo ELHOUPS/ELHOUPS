@@ -16,5 +16,5 @@ Experience in engineering mainly Civil Works, Mastering Web devloppement And cur
 >>- 4. [Small Wiki](https://youtu.be/afFiHaY1WRg) :heavy_check_mark:
 
 >>**Hope we can collaborate one's** 	
->>>***Sincerly, -Kafi***
+>>>***Sincerly, -Kafi*** 	:hand_with_fingers_splayed:
 
