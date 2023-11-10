@@ -1,5 +1,5 @@
 ### Helo 🌍 
->>><img src='https://github.com/ELHOUPS/ELHOUPS/blob/main/Tiger_Lonely.png' width=50px > 
+>><img src='https://github.com/ELHOUPS/ELHOUPS/blob/main/Tiger_Lonely.png' width=50px > 
 >I am a university of Algiers Engineering  Alumni with a profetionnal background on software computing,
 Experience in engineering mainly Civil Works, Mastering Web devloppement And currently software tools with a bit of experience in teaching as contractor at university’s of applied science.
 >i can help in this different fields  :
@@ -17,6 +17,3 @@ Experience in engineering mainly Civil Works, Mastering Web devloppement And cur
 
 >>**Hope we can collaborate one's** 
 >>>***Sincerly, -Kafi***
-![el-Houps](https://github.com/ELHOUPS/ELHOUPS/blob/main/Tiger_Lonely.png)
-
-
