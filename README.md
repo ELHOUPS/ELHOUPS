@@ -1,6 +1,6 @@
 ### Helo 🌍 
 
->I am a university of Algiers Engineering  Alumni with a profetionnal background on soft computing,
+>I am a university of Algiers Engineering  Alumni with a profetionnal background on software computing,
 Experience in engineering mainly Civil Works, Mastering Web devloppement And currently software tools with a bit of experience in teaching as contractor at university’s of applied science.
 >i can help in this different fields  :
 >- Web devlopement using  [Python and javaScript](https://credentials.edx.org/credentials/7ca9badd84c344d593af5aeb759ad5c4/) and my [transcript](https://records.edx.org/90f4789c25494670ade712cc8b590f5c).
