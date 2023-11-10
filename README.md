@@ -15,6 +15,6 @@ Experience in engineering mainly Civil Works, Mastering Web devloppement And cur
 >>- 3. [Mail Box](https://youtu.be/8hLDxBDQugY). 
 >>- 4. [Small Wiki](https://youtu.be/afFiHaY1WRg). 
 
->>** Hope we can collaborate one's** 🗨️
+>>**Hope we can collaborate one's** 🗨️
 >>>***Sincerly, -Kafi*** 	🖐️
 
