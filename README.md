@@ -11,9 +11,10 @@ Experience in engineering mainly Civil Works, Mastering Web devloppement And cur
 >>- Web devlopement using  [Python and javaScript](https://credentials.edx.org/credentials/7ca9badd84c344d593af5aeb759ad5c4/) and my [transcript](https://records.edx.org/90f4789c25494670ade712cc8b590f5c).
 >>- Front-End responsive designs.
 >>- Database administration with  [R](https://courses.edx.org/certificates/4217a624e961448f83b408477323da42) , or differnet tools  [Computer Sciences](https://certificates.cs50.io/a8536a9a-99ea-40c9-a7d7-b9d18b188446.pdf?size=letter). 
->>- and Project Management (agile) [Transcript](https://credentials.edx.org/records/programs/shared/f0f85dca2e214b2fb8d050e021bf763b).
+>>- Project Management (agile) [Transcript](https://credentials.edx.org/records/programs/shared/f0f85dca2e214b2fb8d050e021bf763b).
+>>- English for Business [transcript](https://records.edx.org/shared/b731cf9f921647d380e26199591234fd).
 
 >**Hope we can collaborate one's** 
->>***Best regards, -Kafi***
->>>NB:  links are for my credentials ㊗️. 
+>>>***Best regards, -Kafi***
+
 
