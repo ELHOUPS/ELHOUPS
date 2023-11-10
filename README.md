@@ -10,10 +10,10 @@ Experience in engineering mainly Civil Works, Mastering Web devloppement And cur
 >- English for Business [transcript](https://records.edx.org/shared/b731cf9f921647d380e26199591234fd). And [French](https://www.credential.net/8707700a-69d6-4d96-91be-97362844f946?username=elhoups#gs.07frno) fluency 
 
 >>#### Web Projects  :
->>- 1. [Zouloulou](https://youtu.be/adUXjfNohmw) . :heavy_check_mark:
->>- 2. [Small Network](https://www.youtube.com/watch?v=H5g-S4LF7rA). :heavy_check_mark:
->>- 3. [Mail Box](https://youtu.be/8hLDxBDQugY) :heavy_check_mark:
->>- 4. [Small Wiki](https://youtu.be/afFiHaY1WRg) :heavy_check_mark:
+>>- 1. [Zouloulou](https://youtu.be/adUXjfNohmw) . :linked_paperclips:
+>>- 2. [Small Network](https://www.youtube.com/watch?v=H5g-S4LF7rA). :linked_paperclips:
+>>- 3. [Mail Box](https://youtu.be/8hLDxBDQugY) :linked_paperclips:
+>>- 4. [Small Wiki](https://youtu.be/afFiHaY1WRg) :linked_paperclips:
 
 >>**Hope we can collaborate one's** 	
 >>>***Sincerly, -Kafi*** 	🖐️
