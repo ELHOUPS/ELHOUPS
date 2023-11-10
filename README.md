@@ -17,5 +17,4 @@ Experience in engineering mainly Civil Works, Mastering Web devloppement And cur
 
 >>**Hope we can collaborate one's** 
 >>>***Sincerly, -Kafi***
->>>><a href="lotfi.kafi@hotmai.com">Send email</a>
->>>><a href="c.kafi.lotfi@gmail.com" target="_top">Send email</a>
+
