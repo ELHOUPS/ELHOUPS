@@ -16,5 +16,5 @@ Experience in engineering mainly Civil Works, Mastering Web devloppement and cur
 >>- 4. [Small Wiki](https://youtu.be/afFiHaY1WRg). 
 
 >>**Hope we can collaborate one's, i am ***Flexibel***.** 🗨️
->>>***Sincerly, -Kafi*** 	🖐️
+>>>***Sincerly, -Kafi*** 	🖐️  ![bye](https://upload.wikimedia.org/wikipedia/en/d/d8/Windows_11_Clippy_paperclip_emoji.png)
 
