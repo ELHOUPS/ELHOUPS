@@ -1,10 +1,10 @@
-<!-- 
+
 ### Hello, 🌍
 
 >I am a university of Algiers Engineering  Alumni with a profetionnal background on software computing,
 Experience in engineering mainly Civil Works, Mastering Web devloppement and currently devOps software tools with a bit of experience in teaching as contractor at university’s of applied science.
 >i can help in this different fields  :
->- Web devlopement using  [Python and javaScript](https://credentials.edx.org/credentials/7ca9badd84c344d593af5aeb759ad5c4/) and my [transcript](https://records.edx.org/90f4789c25494670ade712cc8b590f5c).
+>- Web devlopement using  [Python and javaScript]<!-- (https://credentials.edx.org/credentials/7ca9badd84c344d593af5aeb759ad5c4/) -->and my [transcript]<!-- (https://records.edx.org/90f4789c25494670ade712cc8b590f5c)-->.
 >- Front-End responsive designs and the fundemental of [Digital Marketing](https://skillshop.exceedlms.com/profiles/3339237f3b8b4100aefe8e0c4e032f4a) .
 >- Database administration with  [R](https://courses.edx.org/certificates/4217a624e961448f83b408477323da42) , or differnet tools  [Computer Sciences](https://certificates.cs50.io/a8536a9a-99ea-40c9-a7d7-b9d18b188446.pdf?size=letter). 
 >- Project Management (agile) [Transcript](https://credentials.edx.org/records/programs/shared/f0f85dca2e214b2fb8d050e021bf763b).
