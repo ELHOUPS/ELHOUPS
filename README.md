@@ -18,4 +18,4 @@ Experience in engineering mainly Civil Works, Mastering Web devloppement and cur
 
 >>**Hope we can collaborate one's, i am ***Flexibel***.** 🗨️
 >>>***Sincerly, -Kafi*** 	🖐️  ![bye](https://upload.wikimedia.org/wikipedia/en/d/d8/Windows_11_Clippy_paperclip_emoji.png)
--->
+-->      ![bye](https://github.com/ELHOUPS/ELHOUPS/blob/main/Hex.png)
