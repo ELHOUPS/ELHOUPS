@@ -17,6 +17,6 @@ Experience in engineering mainly Civil Works, Mastering Web devloppement and cur
 >>- 3. [Mail Box](https://youtu.be/8hLDxBDQugY). 
 >>- 4. [Small Wiki](https://youtu.be/afFiHaY1WRg). 
 
->>**Hope we can collaborate one's, i am ***Flexibel***.** 🗨️
->>>***Sincerly, -Kafi*** 	🖐️  
+>>** 🗨️
+>>>***Sincerly, -Kafi lotifi*** 	🖐️  
 >>>>![bye](https://github.com/ELHOUPS/ELHOUPS/blob/main/Hex.png)
