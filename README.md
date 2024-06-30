@@ -3,7 +3,7 @@
 
 >I am a university of Algiers Engineering  Alumni with a profetionnal background on software computing,
 Experience in engineering mainly Civil Works, Mastering Web devloppement and currently devOps & software tools with a bit of experience in Laboratory assistance as contractor at university’s of applied science.
->different fields of my activities are  :
+>different fields of activities are  :
 >- Web devlopement using  [Python and javaScript](https://credentials.edx.org/credentials/7ca9badd84c344d593af5aeb759ad5c4/) and my [transcript](https://records.edx.org/90f4789c25494670ade712cc8b590f5c).
 >- Fundemental of Digital Marketing [Google](https://skillshop.exceedlms.com/student/award/hHBY8yEVSo63xAuXG3eAK3R6)
 >- Front-End responsive designs and the fundemental of [Digital Marketing](https://skillshop.exceedlms.com/profiles/3339237f3b8b4100aefe8e0c4e032f4a) .
