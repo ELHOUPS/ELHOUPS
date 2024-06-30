@@ -1,5 +1,5 @@
 
-### Hello, 🌍
+### Hello, 
 
 >I am a university of Algiers Engineering  Alumni with a profetionnal background on software computing,
 Experience in engineering mainly Civil Works, Mastering Web devloppement and currently devOps & software tools with a bit of experience in Laboratory assistance as contractor at university’s of applied science.
