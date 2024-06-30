@@ -19,4 +19,4 @@ Experience in engineering mainly Civil Works, Mastering Web devloppement and cur
 
 >>** 🗨
 >>>***Sincerly, -Kafi lotifi*** 	🖐️  
->>>> [on LinkedIn:](https://www.linkedin.com/in/lotfi-kafi/)
+>>>> 
